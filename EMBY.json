@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "plus.younoyes.com",
+        "emby.younoyes.com",
+        "line.xmsl.org",
+        "ciallo.party",
+        "mperformance.mebimmer.de",
+        "sport.mebimmer.de",
+        "lite.cn2gias.uk",
+        "emby1.69yun69.com",
+        "entry.zox.show",
+        "zoxfree.3767483.xyz",
+        "hka-emby.aliz.work",
+        "ciallo.party",
+        "emby.bangumi.ca",
+        "public.shrekmedia.org",
+        "emos.lol",
+        "de.yixia.io",
+        "emby.kongcheng666.dpdns.org",
+        "gy.meowfly.de",
+        "emby.feiniu.lol",
+        "emby.nubebelle.cn",
+        "shouer.910427.xyz",
+        "xxxxx.xxxxx.com",
+        "emby.hohai.eu.org",
+        "emby.191920.xyz",
+        "playz.mjji.de",
+        "spcs.mebimmer.de",
+        "mpcs.mebimmer.de"
+      ],
+      "domain_suffix": [
+        "nubebelle.vip",
+        "handoumedia.top"
+      ],
+      "ip_cidr":[
+        "207.58.173.192"
+      ]
+    }
+  ]
+}
