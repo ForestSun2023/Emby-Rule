@@ -1,0 +1,46 @@
+payload:
+  # 域名匹配 (原 domain)
+  - DOMAIN,plus.younoyes.com
+  - DOMAIN,emby.younoyes.com
+  - DOMAIN,line.xmsl.org
+  - DOMAIN,ciallo.party
+  - DOMAIN,mperformance.mebimmer.de
+  - DOMAIN,sport.mebimmer.de
+  - DOMAIN,lite.cn2gias.uk
+  - DOMAIN,emby1.69yun69.com
+  - DOMAIN,entry.zox.show
+  - DOMAIN,zoxfree.3767483.xyz
+  - DOMAIN,hka-emby.aliz.work
+  - DOMAIN,emby.bangumi.ca
+  - DOMAIN,public.shrekmedia.org
+  - DOMAIN,emos.lol
+  - DOMAIN,de.yixia.io
+  - DOMAIN,emby.kongcheng666.dpdns.org
+  - DOMAIN,gy.meowfly.de
+  - DOMAIN,emby.feiniu.lol
+  - DOMAIN,emby.nubebelle.cn
+  - DOMAIN,shouer.910427.xyz
+  - DOMAIN,xxxxx.xxxxx.com
+  - DOMAIN,emby.hohai.eu.org
+  - DOMAIN,emby.191920.xyz
+  - DOMAIN,playz.mjji.de
+  - DOMAIN,spcs.mebimmer.de
+  - DOMAIN,mpcs.mebimmer.de
+  - DOMAIN,nangua.de
+  - DOMAIN,wf.vban.xyz
+  - DOMAIN,v1.uhdnow.com
+  - DOMAIN,yin.wenjian.de
+  - DOMAIN,music.wenjian.de
+  - DOMAIN,empn.mom
+  - DOMAIN,emos.dolby.dpdns.org
+  - DOMAIN,emos.movier.ink
+  - DOMAIN,yxh20190608-my.sharepoint.com
+  - DOMAIN,speedtestdeemby.191920.xyz
+  - DOMAIN,speedtestemby.191920.xyz
+
+  # 域名后缀匹配 (原 domain_suffix)
+  - DOMAIN-SUFFIX,nubebelle.vip
+  - DOMAIN-SUFFIX,handoumedia.top
+
+  # IP段匹配 (原 ip_cidr)
+  - IP-CIDR,207.58.173.192/32
