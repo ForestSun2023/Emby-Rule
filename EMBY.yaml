@@ -37,10 +37,13 @@ payload:
   - DOMAIN,yxh20190608-my.sharepoint.com
   - DOMAIN,speedtestdeemby.191920.xyz
   - DOMAIN,speedtestemby.191920.xyz
+  - DOMAIN,link00.okemby.org
+  - DOMAIN,link01.okemby.org
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
   - DOMAIN-SUFFIX,handoumedia.top
 
   # IP段匹配 (原 ip_cidr)
+
   - IP-CIDR,207.58.173.192/32
