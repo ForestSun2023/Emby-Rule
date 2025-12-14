@@ -39,6 +39,7 @@ payload:
   - DOMAIN,speedtestemby.191920.xyz
   - DOMAIN,link00.okemby.org
   - DOMAIN,link01.okemby.org
+  - DOMAIN,emby.191920.xyz
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
@@ -47,3 +48,4 @@ payload:
   # IP段匹配 (原 ip_cidr)
 
   - IP-CIDR,207.58.173.192/32
+
