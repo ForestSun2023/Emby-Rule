@@ -42,6 +42,7 @@ payload:
   - DOMAIN,emby.191920.xyz
   - DOMAIN,yinhai.aiinyue.com
   - DOMAIN,embygy.ichinosekotomi.com
+  - DOMAIN,gm.yezi.my
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
@@ -50,6 +51,7 @@ payload:
   # IP段匹配 (原 ip_cidr)
 
   - IP-CIDR,207.58.173.192/32
+
 
 
 
