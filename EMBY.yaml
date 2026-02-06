@@ -46,6 +46,7 @@ payload:
   - DOMAIN,main.younopro.de
   - DOMAIN,emby.violet.run
   - DOMAIN,mi.miraiemby.com
+  - DOMAIN,emby.ichinosekotomi.com
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
@@ -54,6 +55,7 @@ payload:
   # IP段匹配 (原 ip_cidr)
 
   - IP-CIDR,207.58.173.192/32
+
 
 
 
