@@ -48,6 +48,8 @@ payload:
   - DOMAIN,mi.miraiemby.com
   - DOMAIN,emby.ichinosekotomi.com
   - DOMAIN,wp.lyezi.cc
+  - DOMAIN,emby.wenjian.de
+  - DOMAIN,media.nijigem.by
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
@@ -56,6 +58,7 @@ payload:
   # IP段匹配 (原 ip_cidr)
 
   - IP-CIDR,207.58.173.192/32
+
 
 
 
