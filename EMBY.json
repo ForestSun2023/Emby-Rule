@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "plus.younoyes.com",
+        "emby.younoyes.com",
+        "line.xmsl.org",
+        "ciallo.party",
+        "mperformance.mebimmer.de",
+        "sport.mebimmer.de",
+        "lite.cn2gias.uk",
+        "emby1.69yun69.com",
+        "entry.zox.show",
+        "zoxfree.3767483.xyz",
+        "hka-emby.aliz.work",
+        "ciallo.party",
+        "emby.bangumi.ca",
+        "public.shrekmedia.org",
+        "emos.lol",
+        "de.yixia.io",
+        "emby.kongcheng666.dpdns.org",
+        "gy.meowfly.de",
+        "emby.feiniu.lol",
+        "emby.nubebelle.cn",
+        "shouer.910427.xyz",
+        "xxxxx.xxxxx.com",
+        "emby.hohai.eu.org",
+        "emby.191920.xyz",
+        "playz.mjji.de",
+        "spcs.mebimmer.de",
+        "mpcs.mebimmer.de",
+        "nangua.de",
+        "wf.vban.xyz",
+        "v1.uhdnow.com",
+        "yin.wenjian.de",
+        "music.wenjian.de",
+        "empn.mom",
+        "emos.dolby.dpdns.org",
+        "emos.movier.ink",
+        "yxh20190608-my.sharepoint.com",
+        "speedtestdeemby.191920.xyz",
+        "speedtestemby.191920.xyz",
+        "link01.okemby.org",
+        "link00.okemby.org",
+        "emby.191920.xyz",
+        "yinhai.aiinyue.com",
+        "embygy.ichinosekotomi.com",
+        "gm.yezi.my",
+        "main.younopro.de",
+        "emby.violet.run",
+        "mi.miraiemby.com",
+        "emby.ichinosekotomi.com",
+        "wp.lyezi.cc",
+        "emby.wenjian.de",
+        "media.nijigem.by",
+        "hellohk.me"
+      ],
+      "domain_suffix": [
+        "nubebelle.vip",
+        "handoumedia.top"
+      ],
+      "ip_cidr":[
+        "207.58.173.192"
+      ]
+    }
+  ]
+}
