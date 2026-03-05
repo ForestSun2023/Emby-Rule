@@ -51,6 +51,9 @@ payload:
   - DOMAIN,emby.wenjian.de
   - DOMAIN,media.nijigem.by
   - DOMAIN,hellohk.me
+  - DOMAIN,mi2.miraiemby.com
+  - DOMAIN,emby.dnscf.dpdns.org
+  - domain,ebs.digimon.ink
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
@@ -59,6 +62,7 @@ payload:
   # IP段匹配 (原 ip_cidr)
 
   - IP-CIDR,207.58.173.192/32
+
 
 
 
