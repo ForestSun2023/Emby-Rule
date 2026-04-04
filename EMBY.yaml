@@ -53,13 +53,15 @@ payload:
   - DOMAIN,hellohk.me
   - DOMAIN,mi2.miraiemby.com
   - DOMAIN,emby.dnscf.dpdns.org
-  - domain,ebs.digimon.inkemby.yun
+  - DOMAIN,ebs.digimon.inkemby.yun
+  - DOMAIN,gy1.66990000.xyz
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
   - DOMAIN-SUFFIX,handoumedia.top
   - DOMAIN-SUFFIX,emby.yun
   - DOMAIN-SUFFIX,yuntv.de
+  - DOMAIN-SUFFIX,mobaiemby.site
 
   # IP段匹配 (原 ip_cidr)
 
