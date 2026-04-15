@@ -55,6 +55,7 @@ payload:
   - DOMAIN,emby.dnscf.dpdns.org
   - DOMAIN,ebs.digimon.inkemby.yun
   - DOMAIN,gy1.66990000.xyz
+  - DOMAIN,gy.emby.yun
 
   # 域名后缀匹配 (原 domain_suffix)
   - DOMAIN-SUFFIX,nubebelle.vip
